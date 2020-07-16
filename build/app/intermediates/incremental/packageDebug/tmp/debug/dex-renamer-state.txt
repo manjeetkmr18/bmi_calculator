@@ -1,0 +1,4 @@
+#Thu Jul 16 12:07:50 IST 2020
+base.0=E\:\\fiutter github\\bmi_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
